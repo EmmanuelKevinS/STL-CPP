@@ -24,7 +24,7 @@ void vectors(){
     v2.push_back({32, 45});
     v2.emplace_back(654, 328);
     cout << "Vector two: ";
-    for(int i=0; i<v2.size();i++){
+    for(int i = 0; i < v2.size(); i++){
         cout << v2[i].first << " " << v2[i].second <<" ";
     } 
     cout << endl;
