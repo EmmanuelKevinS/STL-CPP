@@ -30,7 +30,7 @@ void vectors(){
     cout << endl;
 
     //Pre-defined vector
-    vector<int> v3(5,100);//This will creat a vector that has a size of 5 filled with values of 100
+    vector<int> v3(5,100);//This will create a vector that has a size of 5 filled with values of 100
     vector<int> v4(4);//This will create a vector that has a size of 4
     vector<int> v5(v4);//This will create a copy of v4(NOT THE SAME VECTOR);
 
